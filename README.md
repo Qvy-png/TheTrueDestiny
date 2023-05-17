@@ -9,7 +9,7 @@ This discord bot is a simple and lightweight bot written in python. It was desig
 - Uses the number of microseconds since Jan 1st 1970 for sake of getting a more random roll
 
 ## Installation
-To install this discord bot, follow these steps, it only has been tested on a debian environment :
+To install this discord bot, follow these steps, (it only has been tested on a debian environment) :
 
 1. Make sure you have python3, pip and discord.py installed
 2. Clone the repository :`git clone https://github.com/Qvy-png/TheTrueDestiny.git`

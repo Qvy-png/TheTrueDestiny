@@ -21,10 +21,8 @@ To install this discord bot, follow these steps, (it only has been tested on a d
 ## Usage
 The main purpose of this discord bot is to roll dice to enable any DnD or RolePlay party to play online.
 
- - Open your discord server (where your bot has been invited) and run the following command : `:roll d6`
-Congratulations, you have rolled your first dice! 
- - Now try `:roll 2d20` 
-Wowee, you have rolled 2 20 dices. Felt good right ? 
+ - Open your discord server (where your bot has been invited) and run the following command : `:roll d6`, congratulations, you have rolled your first dice! 
+ - Now try `:roll 2d20`, wowee, you have rolled 2 \* 20 dices. Felt good right ? 
 
 ## Examples
 

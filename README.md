@@ -23,7 +23,7 @@ The main purpose of this discord bot is to roll dice to enable any DnD or RolePl
 
  - Open your discord server (where your bot has been invited) and run the following command : `:roll d6`
 Congratulations, you have rolled your first dice! 
- - Now try `:roll 2d20`
+ - Now try `:roll 2d20` 
 Wowee, you have rolled 2 20 dices. Felt good right ? 
 
 ## Examples

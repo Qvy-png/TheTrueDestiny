@@ -1,5 +1,6 @@
-```Hello there! This is the true Destiny
+```Hello there!
 
+This is the true Destiny.
 My goal here is to help you in your quest.
 For now I can only roll dice, but I do it well!
 Following are the instructions on how to use me.

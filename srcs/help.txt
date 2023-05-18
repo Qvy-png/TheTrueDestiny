@@ -1,0 +1,13 @@
+```Hello there! This is the true Destiny
+
+My goal here is to help you in your quest.
+For now I can only roll dice, but I do it well!
+Following are the instructions on how to use me.
+
+**Available Commands:**
+
+:roll XdY - Roll X dice with Y sides.
+Example: :roll 3d6
+
+:roll XdY+A+B+C+... - Roll X dice with Y sides and add additional numbers.
+Example: :roll 2d10+5+3```
